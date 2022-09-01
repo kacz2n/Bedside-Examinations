@@ -1,11 +1,11 @@
 ﻿<Database>
-    <GameDBStringTable ID="LOC_EN_Examinations_BE">
+    <GameDBStringTable ID="LOC_PL_Examinations_BE">
 
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>pl</LanguageCode>
+        <LanguageNameLocalized>Polish</LanguageNameLocalized>
 
         <Contributors>
-            <Name>Butch</Name>
+            <Name>kacz2n</Name>
             
         </Contributors>
 
@@ -13,10 +13,10 @@
             
 			<!-- Examinations-->
             
-            <GameDBLocalizedString>      <LocID>EXM_PCR_SAMPLING_DESCRIPTION_BE</LocID>                         <Text>Sampling of biological material for polymerase chain reaction analysis in the laboratory. Examination is quick, cheap and exact. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + Thermal cycler</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING_DESCRIPTION_BE</LocID>                      <Text>A surgical procedure where a piece of tissue (e.g. lung, liver, intestine) is taken out for further testing. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + Lab analyzer + Microscope</Text>  </GameDBLocalizedString>
-			<GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_SAMPLING_DESCRIPTION_BE</LocID>            <Text>Drawing of a blood sample for serologic tests. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + RIA</Text>  </GameDBLocalizedString> 
-			<GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>              <Text>Procedure to collect a sample of patient's stool for further analysis. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized at any department. Can be ordered at Internal Medicine clinic. \n\nRequired equipment: Glassware + Stool analyzer</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_PCR_SAMPLING_DESCRIPTION_BE</LocID>                         <Text>Pobieranie materiału biologicznego w celu przeprowadzenia reakcji łańcuchowej polimerazy (PCR) w laboratorium. Test jest szybki, tani i dokładny. \n\nWymagane pomieszczenie: Laboratorium hematologiczne \n\nPobieranie: Pacjent musi być najpierw hospitalizowany. Test może być zlecony w każdym oddziale z wyjątkiem Izby Przyjęć. \n\nWymagany sprzęt: Szkło laboratoryjne + Termocykler</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING_DESCRIPTION_BE</LocID>                      <Text>Procedura chirurgiczna obejmująca pobranie wycinka tkanki (np. płuca, wątroby, jelita) do dalszej analizy. \n\nWymagane pomieszczenie: Laboratorium histologiczne \n\nPobieranie: Pacjent musi być najpierw hospitalizowany. Test może być zlecony w każdym oddziale z wyjątkiem Izby Przyjęć. \n\nWymagany sprzęt: Szkło laboratoryjne + Analizator laboratoryjny + Mikroskop</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_SAMPLING_DESCRIPTION_BE</LocID>            <Text>Pobieranie krwi do badań serologicznych. \n\nWymagane pomieszczenie: Laboratorium hematologiczne \n\nPobieranie: Pacjent musi być najpierw hospitalizowany. Test może być zlecony w każdym oddziale z wyjątkiem Izby Przyjęć. \n\nWymagany sprzęt: Szkło laboratoryjne + Analizator serologiczny</Text>  </GameDBLocalizedString> 
+			<GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>              <Text>Pobranie próbki kału pacjenta do dalszych badań. \n\nWymagane pomieszczenie: Laboratorium histologiczne \n\nPobieranie: Pacjent musi być najpierw hospitalizowany na dowlonym oddziale. Test może być zlecony w przychodni Chorób Wewnętrznych. \n\nWymagany sprzęt: Szkło laboratoryjne + Analizator kału</Text>  </GameDBLocalizedString>
 			<GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>       <Text>Sampling of mid-stream urine from a patient, or from a patient's catheter. \n\nRequired room for testing: Histology Lab \n\nSampling: Can be ordered in all departments at clinics or inpatients wards. \n\nRequired equipment: Glassware + Lab analyzer</Text>  </GameDBLocalizedString>
 			<GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_SAMPLING_DESCRIPTION_BE</LocID>        <Text>Microbial sampling is the collection of samples from the patient (e.g. body fluids, sputum, stool) for further analysis. \n\nRequired room for testing: Microbiology Lab \n\nSampling: Patient must be hospitalized at any department. Can be ordered at Neurology clinic.  \n\nRequired equipment: Glassware + Fume hood + Microbiolog. incubator + Microscope</Text>  </GameDBLocalizedString>
 			<GameDBLocalizedString>      <LocID>EXM_CBC_SAMPLING_DESCRIPTION_BE</LocID>                         <Text>The sampling of blood for a Complete Blood Count (CBC) test. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized at any department. \n\nRequired equipment: Glassware + Hematoanalyzer</Text>  </GameDBLocalizedString>
