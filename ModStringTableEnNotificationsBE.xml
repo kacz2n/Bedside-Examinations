@@ -1,0 +1,22 @@
+<Database>
+    <GameDBStringTable ID="BEDSIDE_NOTIFICATIONS">
+        
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+        
+        <Contributors>
+            <Name>Butch</Name>
+        </Contributors>
+        
+        <LocalizedStrings>
+            <!-- Notifications -->
+            
+            
+            <GameDBLocalizedString>      <LocID>NOTIF_AMBIGUOUS_DIAGNOSIS</LocID>            <Text>There's no clear diagnosis!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NOTIF_AMBIGUOUS_DIAGNOSIS_TEXT</LocID>       <Text>The initial workup of the patient has not revealed a diagnosis. Consider hospitalizing the patient or transferring them to a different department to continue investigation. You may need to add more diagnostic equipment, laboratories or radiology rooms. The patient will leave soon.</Text>  </GameDBLocalizedString>
+
+           
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>

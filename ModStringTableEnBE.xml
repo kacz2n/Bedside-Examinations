@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Database>
+    <GameDBStringTable ID="Bedside Examinations">
+
+    <LanguageCode>en</LanguageCode>
+    <LanguageNameLocalized>English</LanguageNameLocalized>
+
+    <Contributors>
+    <Name>Butch</Name>
+    </Contributors>
+
+    <LocalizedStrings>
+
+    <GameDBLocalizedString>      <LocID>Bedside Examinations</LocID>                       <Text>Bedside Examinations</Text>  </GameDBLocalizedString>
+
+    </LocalizedStrings>
+
+    </GameDBStringTable>
+
+</Database>

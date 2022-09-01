@@ -1,0 +1,31 @@
+﻿<Database>
+    <GameDBStringTable ID="LOC_EN_Examinations_BE">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Butch</Name>
+            
+        </Contributors>
+
+        <LocalizedStrings>
+            
+			<!-- Examinations-->
+            
+            <GameDBLocalizedString>      <LocID>EXM_PCR_SAMPLING_DESCRIPTION_BE</LocID>                         <Text>Sampling of biological material for polymerase chain reaction analysis in the laboratory. Examination is quick, cheap and exact. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + Thermal cycler</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXM_BIOPSY_SAMPLING_DESCRIPTION_BE</LocID>                      <Text>A surgical procedure where a piece of tissue (e.g. lung, liver, intestine) is taken out for further testing. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + Lab analyzer + Microscope</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_SEROLOGY_TESTING_SAMPLING_DESCRIPTION_BE</LocID>            <Text>Drawing of a blood sample for serologic tests. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + RIA</Text>  </GameDBLocalizedString> 
+			<GameDBLocalizedString>      <LocID>EXM_STOOL_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>              <Text>Procedure to collect a sample of patient's stool for further analysis. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized at any department. Can be ordered at Internal Medicine clinic. \n\nRequired equipment: Glassware + Stool analyzer</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_URINE_SAMPLE_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>       <Text>Sampling of mid-stream urine from a patient, or from a patient's catheter. \n\nRequired room for testing: Histology Lab \n\nSampling: Can be ordered in all departments at clinics or inpatients wards. \n\nRequired equipment: Glassware + Lab analyzer</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_BACTERIA_CULTIVATION_SAMPLING_DESCRIPTION_BE</LocID>        <Text>Microbial sampling is the collection of samples from the patient (e.g. body fluids, sputum, stool) for further analysis. \n\nRequired room for testing: Microbiology Lab \n\nSampling: Patient must be hospitalized at any department. Can be ordered at Neurology clinic.  \n\nRequired equipment: Glassware + Fume hood + Microbiolog. incubator + Microscope</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_CBC_SAMPLING_DESCRIPTION_BE</LocID>                         <Text>The sampling of blood for a Complete Blood Count (CBC) test. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized at any department. \n\nRequired equipment: Glassware + Hematoanalyzer</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_FECAL_ELASTASE_TEST_SAMPLING_DESCRIPTION_BE</LocID>         <Text>The collection of a stool sample from the patient in order to quantify the amount of the elastase produced by the pancreas. It indicates the actual function of the pancreas. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized at Emergency, General Surgery or the ICU.  \n\nRequired equipment: Glassware + RIA</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_FUNGAL_CULTIVATION_SAMPLING_DESCRIPTION_BE</LocID>          <Text>Collecting various samples from the patient's body for cultivation in order to determine if fungal species are present or not. \n\nRequired room for testing: Microbiology Lab \n\nSampling: Can be ordered at the Emergency department or ICU \n\nRequired equipment: Glassware + Fume hood + Microbiolog. incubator + Microscope</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_PERITONEAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>   <Text>Sampling of peritoneal fluid with a large needle and syringe through the abdominal wall. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized at General Surgery or the ICU. \n\nRequired equipment: Glassware + Medical centrifuge + Lab analyzer</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_SPINAL_FLUID_ANALYSIS_SAMPLING_DESCRIPTION_BE</LocID>       <Text>Sampling of cerebrospinal fluid is performed by inserting a needle through the lower back into the spinal canal, draining a small amount of cerebrospinal fluid. \n\nRequired room for testing: Histology Lab \n\nSampling: Patient must be hospitalized at Internal Medicine, Neurology or the ICU. \n\nRequired equipment: Glassware + Medical centrifuge + Lab analyzer</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_ELISA_SAMPLING_DESCRIPTION_BE</LocID>                       <Text>Enzyme-linked immunosorbent assay is a laboratory technique used to detect and quantify peptides, proteins, antibodies and hormones. \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + RIA</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>      <LocID>EXM_RT_PCR_SAMPLING_DESCRIPTION_BE</LocID>                      <Text>Reverse transcription polymerase chain reaction is a laboratory technique combining reverse transcription of RNA into DNA and amplification of specific DNA targets using PCR. \n\nRequired room for testing: Hematology Lab \n\nSampling: Patient must be hospitalized first. Can be ordered at any department except Emergency. \n\nRequired equipment: Glassware + Thermal cycler</Text>	</GameDBLocalizedString>
+        </LocalizedStrings>
+    </GameDBStringTable>
+</Database>
