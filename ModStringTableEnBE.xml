@@ -2,8 +2,8 @@
 <Database>
     <GameDBStringTable ID="Bedside Examinations">
 
-    <LanguageCode>en</LanguageCode>
-    <LanguageNameLocalized>English</LanguageNameLocalized>
+    <LanguageCode>pl</LanguageCode>
+    <LanguageNameLocalized>Polish</LanguageNameLocalized>
 
     <Contributors>
     <Name>Butch</Name>
@@ -11,7 +11,7 @@
 
     <LocalizedStrings>
 
-    <GameDBLocalizedString>      <LocID>Bedside Examinations</LocID>                       <Text>Bedside Examinations</Text>  </GameDBLocalizedString>
+    <GameDBLocalizedString>      <LocID>Badania przyłóżkowe</LocID>                       <Text>Badania przyłóżkowe</Text>  </GameDBLocalizedString>
 
     </LocalizedStrings>
 
